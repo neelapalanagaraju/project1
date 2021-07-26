@@ -1,1 +1,2 @@
-Im working for gep
+main(){
+print{"Im working for gep"}}
